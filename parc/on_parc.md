@@ -1,6 +1,6 @@
 ---
 # YAML metadata
-title: "Fumbling the future"
+title: "What can we learn from a catastrophic business error?"
 author: "Matthew Brett"
 linkcolor: blue
 urlcolor: blue
@@ -15,22 +15,11 @@ suppress-bibliography: true
 
 ![](images/ftf.jpg)
 
-# Xerox
+# Xerox 1970
 
-* 1938: [Chester
-  Carlson](https://en.wikipedia.org/wiki/Chester_Carlson) invents
-  *xerography* — the process that will be the basis for
-  photocopying.
-* 1946: [Joseph
-  Wilson](https://en.wikipedia.org/wiki/Joseph_C._Wilson_(entrepreneur)),
-  CEO of Xerox, signs development agreement with Carlson.
-* 1959: Xerox 914 copier — "the most successful single product of
-  all time".
-* 1968: [Peter
-  McColough](https://en.wikipedia.org/wiki/Charles_Peter_McColough)
-  takes over as Xerox CEO.
-* 1970: [Xerox Xerox Palo Alto Research
-  Center](https://en.wikipedia.org/wiki/PARC_(company))
+* 1959: Xerox 914 copier — "the most successful single product of all time".
+* 1970: [Xerox Palo Alto Research Center
+  (PARC)](https://en.wikipedia.org/wiki/PARC_(company))
 
 # [George Pake](https://en.wikipedia.org/wiki/George_Pake)
 
@@ -42,19 +31,20 @@ suppress-bibliography: true
 
 # The team
 
-Just the Turing award winners:
+Many, including four who went on to win Turing awards:
 
 * [Butler Lampson](https://en.wikipedia.org/wiki/Butler_Lampson)
 * [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay)
-* [Charles P.
-  Thacker](https://en.wikipedia.org/wiki/Charles_P._Thacker)
+* [Charles P. Thacker](https://en.wikipedia.org/wiki/Charles_P._Thacker)
 * [Robert Metcalfe](https://en.wikipedia.org/wiki/Robert_Metcalfe)
 
-# (Some of) what they built
+# The vision
 
 > The office of the future
 
 > ... cheap, powerful personal computers ...
+
+# (Some of) what they built
 
 * Desktop, windows icons Graphical User Interface
 * Modern word processing
@@ -78,27 +68,36 @@ Just the Turing award winners:
 # Snatching defeat from the jaws of victory
 
 * The demos - only the people doing the work saw the value.
-* Competing with bean-counters
+* Competing with Ford business model optimizing for value.
+
+# Until near finally
+
 * 1979: [A visit from
   Apple](https://www.latimes.com/health/la-xpm-2011-oct-05-la-fi-jobs-legacy-hiltzik-20111006-story.html)
+* 1983: Apple Lisa
+* 1984: Apple Macintosh.
 
 # Management unto death
 
-* George Pake tires of Bob Taylor, delegates William J. Spencer to deal with
-  the situation.
+* 1983: George Pake tires of Bob Taylor, hires William J. Spencer as PARC director.
 * Spencer: ["Taylor's not going to leave. He doesn't have anywhere to
   go."](https://asterisk.dynevor.org/fumbling-the-future.html)
-* Tells Taylor to toe the line or leave.
-* Taylor leaves, team leaves, game over.
 
-> [Spencer said] “Well, you heard him. He’s left, what do you want me to do?”
-And someone in the back of the room said, “Quit.” (link above).
+> “Bob, it is my desire that as a result of our discussions that you will make
+the necessary corrections in your behavior and actions to be a valued member of
+my staff. However, it is important for you to understand that any failure to
+comply with these action items, or the confidentiality of this memo, with
+result in disciplinary action that may include your termination”.
+
+* Taylor leaves a few days later, team disbands.
+* 1986: Pake awarded [Industrial Research Institute
+  Medal](https://en.wikipedia.org/wiki/IRI_Medal)
 
 # Themes
 
-* Self-satisfaction tends to stasis.
-* Listen to the people who are doing the work.
-* Hedging bets in a fast-changing market leads to failure.
+* Success tends to stasis.
+* Listen carefully to the right people.
+* Hedging bets on innovation leads to failure.
 
 See: @smith1999fumbling, @hiltzik1999dealers
 
